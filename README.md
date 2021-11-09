@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VicReznov
+- 👋 Hi, I’m Kim yoon-uk
 - 👀 I’m interested in developing APP
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
