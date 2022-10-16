@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kim yoon-uk
 - 👀 I’m interested in developing backend of web
-- 🌱 I’m currently learning Kotlin and Java
+- 🌱 I’m currently learning Kotlin, Java and Spring
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
