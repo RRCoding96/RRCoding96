@@ -1,7 +1,9 @@
 # 👋 안녕하세요. 김윤욱입니다.
 
-## 🛠 Tech Stack
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:reznov03048@gmail.com) 
+[![Velog Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)]([http://yeondube.tistory.com/](https://velog.io/@yoonuk))
 
+## 🛠 Tech Stack
 <div>
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
