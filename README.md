@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kim yoon-uk
-- 👀 I’m interested in developing backend of web
-- 🌱 I’m currently learning Java and Spring
 
+
+## :bulb: Algorithm
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hm03048)](https://solved.ac/hm03048)
 
 ## 📚 Education
