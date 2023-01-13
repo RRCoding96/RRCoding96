@@ -1,6 +1,7 @@
 # 👋 안녕하세요. 김윤욱입니다.
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:reznov03048@gmail.com) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-9c38d1?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/yoonuk.k/)
 [![Velog Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](http://velog.io/@yoonuk/)
 
 ## 🛠 Tech Stack
