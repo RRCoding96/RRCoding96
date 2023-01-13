@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Kim yoon-uk
+👋 Hi, I’m Kim yoon-uk
+
 
 
 ## :bulb: Algorithm
