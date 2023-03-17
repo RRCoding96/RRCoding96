@@ -18,6 +18,8 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 -->  
 
+## :bulb: Tech-Blog Velog
+![60jong's velog stats](https://post-stat-view.60jong.site/api/v1/velog-stats?username=yoonuk&show_visitors=true)  
 
 ## :bulb: Algorithm
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hm03048)](https://solved.ac/hm03048)
