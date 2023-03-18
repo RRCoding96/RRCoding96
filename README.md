@@ -19,6 +19,7 @@
 -->  
 
 ## :bulb: Tech-Blog Velog
+[![Velog Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](http://velog.io/@yoonuk/)
 ![60jong's velog stats](https://post-stat-view.60jong.site/api/v1/velog-stats?username=yoonuk&show_visitors=true)  
 
 ## :bulb: Algorithm
