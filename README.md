@@ -21,7 +21,7 @@
 ## :bulb: Tech-Blog Velog
 [![Velog Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](http://velog.io/@yoonuk/)
   
-![60jong's velog stats](https://post-stat-view.60jong.site/api/v1/velog-stats?username=yoonuk&show_visitors=true)  
+[![60jong's velog stats](https://post-stat-view.60jong.site/api/v1/velog-stats?username=yoonuk&show_visitors=true)](http://velog.io/@yoonuk/)  
 
 ## :bulb: Algorithm
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hm03048)](https://solved.ac/hm03048)
