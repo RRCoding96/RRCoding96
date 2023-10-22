@@ -22,6 +22,11 @@
   
 <!-- [![60jong's velog stats](https://post-stat-view.60jong.site/api/v1/velog-stats?username=yoonuk&show_visitors=true)](http://velog.io/@yoonuk/)   -->
 
+## GitHub Stats
+
+[![RRCoding96's github stats](https://github-readme-stats.vercel.app/api?username=RRCoding96&theme=material-palenight)](https://github.com/RRCoding96/github-readme-stats)
+</div>
+
 ## :bulb: Algorithm
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hm03048)](https://solved.ac/hm03048)
 
