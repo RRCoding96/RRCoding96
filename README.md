@@ -31,6 +31,7 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hm03048)](https://solved.ac/hm03048)
 
 ## 📚 Education
-- **SSAFY** - 삼성 청년 SW 아카데미 9기 (2023.01. ~ 2023.11) [:link:](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
+- 팀프레시 - 유통 시스템 백엔드 개발 (2023.11. ~ )
+- **SSAFY** - 삼성 청년 SW 아카데미 9기 (2023.01. ~ 2023.11.) [:link:](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
 - 경북대학교 (2016.03. ~ 2023.02.) 
 
